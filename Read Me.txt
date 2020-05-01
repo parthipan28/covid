@@ -1,0 +1,10 @@
+12:34 PM 4/23/2020
+	New menus
+	Logo Change
+
+12:42 PM 4/22/2020
+	Carousel Video Added
+	Form Re-Aligned
+	bootstrap Issue Fixed
+	Table data populated
+	
